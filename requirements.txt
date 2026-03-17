@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+google-genai
+SpeechRecognition
+prophet
+jinja2
+python-dotenv

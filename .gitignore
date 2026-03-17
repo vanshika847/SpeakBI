@@ -1,0 +1,33 @@
+# API keys - never upload these
+.env
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Database - auto-created on startup
+database/database.db
+*.db
+*.sqlite
+
+# Streamlit cache
+.streamlit/
+
+# Temp files
+*.log
+*.tmp
+fix_csv.py
+check_db.py
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
