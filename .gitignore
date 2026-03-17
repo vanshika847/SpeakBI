@@ -30,4 +30,5 @@ check_db.py
 # OS files
 .DS_Store
 Thumbs.db
-desktop.ini
+desktop.inisample_data.csv 
+sample_data_clean.csv 
